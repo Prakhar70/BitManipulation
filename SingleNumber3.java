@@ -15,6 +15,5 @@ class SingleNumber3 {
         }
         ans[0]=a; ans[1]=b;
         return ans;
-
     }
 }
